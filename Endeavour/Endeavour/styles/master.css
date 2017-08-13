@@ -1,0 +1,16 @@
+﻿body {
+    margin: auto;
+    width: 1300px;
+    height: 100%;
+    background-color: #E9E9E9;
+    font-family: Calibri;
+}
+
+#spinner {
+    margin-top:300px;
+}
+
+#cog {
+    color:gray;
+    margin-bottom:20px;
+}
